@@ -1,0 +1,16 @@
+{
+  "name": "dbapp",
+  "version": "1.0.0",
+  "description": "simple db driven app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "node"
+  ],
+  "author": "davi3blu3",
+  "license": "ISC"
+}
